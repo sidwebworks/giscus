@@ -1,1 +1,2 @@
-# Repository for Giscus comments storage for [](https://sidwebworks.com/blog)
+# Repository for Giscus comments storage for 
+[Personal Blog](https://sidwebworks.com/blog)
